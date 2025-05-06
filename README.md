@@ -1,6 +1,6 @@
-# Expo News App Starter Template 👋
+# Expo News App Starter Template
 
-This is a starter template for the expo news app tutorial on my YouTube channel.
+This is a starter template for an expo news app.
 
 ## Get started
 
